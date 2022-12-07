@@ -1,0 +1,7 @@
+## Interface: 44300
+## Title: Dibs_ApolloXPmod
+## Version: 1.2
+## Author: Dibs
+## Notes: /xpmod or /xp to configure
+## SavedVariablesPerCharacter: DibsApolloXPmod_rate, DibsApolloXPmod_lvl
+core_xpmod.lua
